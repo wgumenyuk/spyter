@@ -1,0 +1,53 @@
+{
+  "name": "spyter",
+  "version": "1.0.0",
+  "description": "Modern audio-focused YouTube crawler for Node.js.",
+  "main": "./build/index.js",
+  "files": [
+    "./build"
+  ],
+  "scripts": {
+    "prepare": "husky install",
+    "clean": "rimraf ./build",
+    "build": "rimraf ./build && tsc",
+    "lint": "eslint ./src",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgumenyuk/spyter.git"
+  },
+  "keywords": [
+    "youtube",
+    "video",
+    "playlist",
+    "search",
+    "crawler",
+    "typescript"
+  ],
+  "author": "Wlad G. Gumenyuk",
+  "contributors": [
+    "Artjom G. Gumenyuk"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wgumenyuk/spyter/issues"
+  },
+  "homepage": "https://github.com/wgumenyuk/spyter#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.3",
+    "@commitlint/config-conventional": "^17.6.3",
+    "@types/jest": "^29.5.1",
+    "@typescript-eslint/eslint-plugin": "^5.59.6",
+    "@typescript-eslint/parser": "^5.59.6",
+    "eslint": "^8.40.0",
+    "husky": "^8.0.3",
+    "jest": "^29.5.0",
+    "rimraf": "^5.0.1",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
