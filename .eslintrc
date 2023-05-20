@@ -25,7 +25,7 @@
         "enforceForClassMembers": true
       }
     ],
-    "array-bracket-spacing": [ "error", "never" ],
+    "array-bracket-spacing": [ "error", "always" ],
     "array-callback-return": [
       "error",
       {
