@@ -356,7 +356,8 @@
       "error",
       "double",
       {
-        "avoidEscape": true
+        "avoidEscape": true,
+        "allowTemplateLiterals": true
       }
     ],
     "rest-spread-spacing": [ "error", "never" ],
