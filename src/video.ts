@@ -174,7 +174,7 @@ const _verifyParameters = (url: unknown, options: VideoOptions) => {
     if(options.region && options.region.length > 2) {
         throw new Error("`region` must be an ISO 3166-2 region code");
     }
-}
+};
 
 /**
     Gets the player file and extracts the format decoding functions.
@@ -352,7 +352,7 @@ const _getMeta = (data: Record<string, any>) => {
     const thumbnails = video
         ?.thumbnail
         ?.thumbnails || [];
-    
+
     const duration = video?.lengthSeconds || "0";
     const isLive = !!video?.isLiveContent;
 
