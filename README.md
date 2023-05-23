@@ -2,7 +2,7 @@
 [![npm version](https://img.shields.io/github/package-json/v/wgumenyuk/spyter?label=Version&style=flat-square)](https://npmjs.com/package/spyter)
 [![npm downloads](https://img.shields.io/npm/dt/spyter?label=Downloads&style=flat-square)](https://npmjs.com/package/spyter)
 [![build](https://img.shields.io/github/actions/workflow/status/wgumenyuk/spyter/build.yml?label=Build&logo=github&style=flat-square)](https://github.com/wgumenyuk/spyter/actions)
-[![coverage](https://img.shields.io/codecov/c/github/wgumenyuk/spyter?label=Coverage&logo=codecov&style=flat-square)](https://github.com/wgumenyuk/spyter/actions)
+[![coverage](https://img.shields.io/codecov/c/github/wgumenyuk/spyter?label=Coverage&logo=codecov&style=flat-square)](https://app.codecov.io/gh/wgumenyuk/spyter)
 
 ## Overview
 - [About](#about)
