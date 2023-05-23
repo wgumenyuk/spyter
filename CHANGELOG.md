@@ -1,6 +1,7 @@
 # Changelog
 
 ## v1.0.0 (2023-05-23)
+### Added
 - [[`7e64530`](https://github.com/wgumenyuk/spyter/commit/7e64530)] style: fix lint error
 - [[`c9439f2`](https://github.com/wgumenyuk/spyter/commit/c9439f2)] chore: add readme
 - [[`9f1bf75`](https://github.com/wgumenyuk/spyter/commit/9f1bf75)] test: add playlist unit test
