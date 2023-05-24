@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.1 (2023-05-24)
+### Fixed
+- [[`646385e`](https://github.com/wgumenyuk/spyter/commit/646385e)] fix: rename `types.d.ts` to `types.ts`
+
 ## v1.0.0 (2023-05-23)
 ### Added
 - [[`7e64530`](https://github.com/wgumenyuk/spyter/commit/7e64530)] style: fix lint error
