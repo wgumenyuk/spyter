@@ -1,6 +1,6 @@
 {
   "name": "spyter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modern audio-focused YouTube crawler for Node.js.",
   "main": "./build/index.js",
   "files": [
