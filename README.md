@@ -57,6 +57,7 @@ Read more about Spyter's API on the [official wiki](https://github.com/wgumenyuk
 
 ## Links
 - [Documentation](https://github.com/wgumenyuk/spyter/wiki)
+- [Frequently Asked Questions](https://github.com/wgumenyuk/spyter/wiki/Frequently-Asked-Questions)
 - [GitHub](https://github.com/wgumenyuk/spyter)
 - [NPM](https://npmjs.com/package/spyter)
 
