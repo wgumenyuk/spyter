@@ -27,7 +27,7 @@ $ npm install spyter
 
 ## Quick Start
 ```ts
-import spyter from "spyter";
+import * as spyter from "spyter";
 
 const video = await spyter.getVideo(
     "https://www.youtube.com/watch?v=ryT-ltTDCko"
@@ -46,6 +46,11 @@ const video = await spyter.getVideo(
         formats: [ ... ]
     }
 */
+```
+
+### Usage with CommonJS
+```js
+const spyter = require("spyter");
 ```
 
 Read more about Spyter's API on the [official wiki](https://github.com/wgumenyuk/spyter/wiki/API).
