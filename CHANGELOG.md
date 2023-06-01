@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.2 (2023-06-01)
+### Added
+- [[`0304493`](https://github.com/wgumenyuk/spyter/commit/0304493)] chore: add FAQ to readme
+- [[`b82320e`](https://github.com/wgumenyuk/spyter/commit/b82320e)] chore: update readme [skip ci]
+
 ## v1.0.1 (2023-05-24)
 ### Fixed
 - [[`646385e`](https://github.com/wgumenyuk/spyter/commit/646385e)] fix: rename `types.d.ts` to `types.ts`
