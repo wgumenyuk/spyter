@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.3 (2023-07-16)
+### Fixed
+- [[`13a1ef9`](https://github.com/wgumenyuk/spyter/commit/13a1ef9)] fix: faulty extraction in `getNParamScript()`
+
 ## v1.0.2 (2023-06-01)
 ### Added
 - [[`0304493`](https://github.com/wgumenyuk/spyter/commit/0304493)] chore: add FAQ to readme
