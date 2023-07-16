@@ -131,7 +131,7 @@ export const getNParamScript = (player: string) => {
     const fnContent = extract(
         player,
         `${fnName}=function(a){`,
-        "};"
+        "};\n"
     );
 
     if(!fnContent) {
