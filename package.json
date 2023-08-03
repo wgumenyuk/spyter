@@ -9,7 +9,7 @@
   "scripts": {
     "prepare": "husky install",
     "clean": "rimraf ./build",
-    "build": "rimraf ./build && tsc",
+    "build": "rimraf ./build && swc ./src -d ./build && tsc",
     "lint": "eslint ./src",
     "test": "jest --coverage"
   },
