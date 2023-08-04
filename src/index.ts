@@ -1,11 +1,32 @@
-export { search } from "./search";
-export { isPlaylistUrl, getPlaylist } from "./playlist";
-export {
+import { search } from "./search";
+import { isPlaylistUrl, getPlaylist } from "./playlist";
+import {
     isVideoUrl,
     getVideo,
     getVideoMeta,
     getVideoFormats
 } from "./video";
+
+// Default and named exports
+export {
+    search,
+    isPlaylistUrl,
+    getPlaylist,
+    isVideoUrl,
+    getVideo,
+    getVideoMeta,
+    getVideoFormats
+};
+
+export default {
+    search,
+    isPlaylistUrl,
+    getPlaylist,
+    isVideoUrl,
+    getVideo,
+    getVideoMeta,
+    getVideoFormats
+};
 
 // Types
 export type { SearchOptions } from "./search";
