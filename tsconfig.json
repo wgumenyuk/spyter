@@ -1,11 +1,8 @@
 {
   "compilerOptions": {
-    "target": "esnext",
-    "module": "commonjs",
     "outDir": "./build",
+    "noEmit": true,
     "esModuleInterop": true,
-    "declaration": true,
-    "emitDeclarationOnly": true,
     "strict": true
   },
   "include": [
