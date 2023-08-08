@@ -6,10 +6,5 @@
       "syntax": "typescript"
     }
   },
-  "module": {
-    "type": "commonjs",
-    "strict": true
-  },
-  "sourceMaps": true,
-  "minify": true
+  "sourceMaps": true
 }
