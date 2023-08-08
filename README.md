@@ -15,11 +15,12 @@
 Spyter is a modern, audio-focused YouTube crawler for Node.js. It allows you to easily search YouTube and retrieve information about playlists and videos.
 
 - Modern and consistent API
+- TypeScript support
 - Performant
 - No dependencies
 
 ## Installation
-**Node.js v18.0.0 or newer is required.**
+> ⚠️ **Node.js v18.0.0 or newer is required.**
 
 ```sh-session
 $ npm install spyter
@@ -27,7 +28,7 @@ $ npm install spyter
 
 ## Quick Start
 ```ts
-import * as spyter from "spyter";
+import spyter from "spyter";
 
 const video = await spyter.getVideo(
     "https://www.youtube.com/watch?v=ryT-ltTDCko"
