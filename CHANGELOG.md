@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.1.0 (2023-08-09)
+### Added
+- [[`661f303`](https://github.com/wgumenyuk/spyter/commit/661f303)] build: add `Makefile`
+- [[`4623f34`](https://github.com/wgumenyuk/spyter/commit/4623f34)] build: add `.swcrc`
+- [[`19ca3e3`](https://github.com/wgumenyuk/spyter/commit/19ca3e3)] build: install `@swc/core` and `@swc/cli`
+
+### Changed
+- [[`3e13ef8`](https://github.com/wgumenyuk/spyter/commit/3e13ef8)] chore: update readme [skip ci]
+- [[`f5ed584`](https://github.com/wgumenyuk/spyter/commit/f5ed584)] build: adapt `package.json` to esm and cjs
+- [[`0b2a4f9`](https://github.com/wgumenyuk/spyter/commit/0b2a4f9)] build: adapt `tsconfig.json` to esm and cjs
+- [[`d7a4ff4`](https://github.com/wgumenyuk/spyter/commit/d7a4ff4)] build: adapt `.swcrc` to esm and cjs
+- [[`f0a4393`](https://github.com/wgumenyuk/spyter/commit/f0a4393)] chore: swap `package-lock.json` with `pnpm-lock.yaml`
+
 ## v1.0.3 (2023-07-16)
 ### Fixed
 - [[`13a1ef9`](https://github.com/wgumenyuk/spyter/commit/13a1ef9)] fix: faulty extraction in `getNParamScript()`
