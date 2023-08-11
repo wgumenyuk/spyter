@@ -1,4 +1,13 @@
-# Spyter
+<div>
+    <img
+        src="./docs/_media/spyter.png"
+        width="40"
+        align="left"
+        alt="Spyter"
+    />
+    <h1>Spyter</h1>
+</div>
+
 [![npm version](https://img.shields.io/github/package-json/v/wgumenyuk/spyter?label=Version&style=flat-square)](https://npmjs.com/package/spyter)
 [![npm downloads](https://img.shields.io/npm/dt/spyter?label=Downloads&style=flat-square)](https://npmjs.com/package/spyter)
 [![build](https://img.shields.io/github/actions/workflow/status/wgumenyuk/spyter/build.yml?label=Build&logo=github&style=flat-square)](https://github.com/wgumenyuk/spyter/actions)
