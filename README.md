@@ -1,7 +1,7 @@
 <div>
     <img
         src="./docs/_media/spyter.png"
-        width="40"
+        width="34"
         align="left"
         alt="Spyter"
     />
@@ -63,11 +63,11 @@ const video = await spyter.getVideo(
 const spyter = require("spyter");
 ```
 
-Read more about Spyter's API on the [official wiki](https://github.com/wgumenyuk/spyter/wiki/API).
+Read more about Spyter's API on the [official wiki](https://spyter.js.org).
 
 ## Links
-- [Documentation](https://github.com/wgumenyuk/spyter/wiki)
-- [Frequently Asked Questions](https://github.com/wgumenyuk/spyter/wiki/Frequently-Asked-Questions)
+- [Documentation](https://spyter.js.org)
+- [Frequently Asked Questions](https://spyter.js.org/#/faq)
 - [GitHub](https://github.com/wgumenyuk/spyter)
 - [NPM](https://npmjs.com/package/spyter)
 
