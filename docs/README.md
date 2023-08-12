@@ -12,7 +12,7 @@ Spyter is a modern, audio-focused YouTube crawler for Node.js. It allows you to 
 - Performant
 - No dependencies
 
-## Quickstart
+## Quick Start
 Jump right into [developing with Spyter](quickstart.md).
 
 ## API

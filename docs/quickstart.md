@@ -1,4 +1,4 @@
-# Quickstart
+# Quick Start
 ## Installation
 With PNPM:
 ```bash

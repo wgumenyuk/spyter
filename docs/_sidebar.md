@@ -1,4 +1,4 @@
-- [Quickstart](quickstart.md "Spyter &ndash; Quickstart")
+- [Quick Start](quickstart.md "Spyter &ndash; Quick Start")
 - [API](api.md)
     - [Playlists](api/playlists.md "Spyter &ndash; Playlists")
     - [Search](api/search.md "Spyter &ndash; Search")
