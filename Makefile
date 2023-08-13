@@ -1,5 +1,7 @@
 BIN := ./node_modules/.bin
 
+.PHONY: all clean build-cjs build-esm build
+
 all: clean build
 
 clean:
@@ -16,5 +18,3 @@ build-esm:
 
 build: clean build-cjs build-esm
 	$(BIN)/dts-bundle-generator ./src/index.ts --silent -o ./build/index.d.ts
-
-.PHONY: clean
