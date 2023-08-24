@@ -21,7 +21,7 @@ Gets the metadata and audio formats of a video.
 | `options` | [`VideoOptions`](#videooptions) | ✔️ | See [`VideoOptions`](#videooptions). | Video retrieval options. |
 
 **Returns:**
-<pre>Promise&lt;<a href="#video">Video</a>&gt;</pre>
+<pre>Promise&lt;<a href="#/api/videos?id=video">Video</a>&gt;</pre>
 
 ### `.getVideoMeta(url, [options])`
 Gets the metadata of a video.
