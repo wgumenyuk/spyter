@@ -1,9 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## v1.1.1 (October 12, 2023)
 ### Chores
-- [[`66ea07e`](https://github.com/wgumenyuk/spyter/commit/66ea07e9a53e251c5481ea5177cf8322f6dee288)] - fix invalid repo link in `cliff.toml`
+- [[`eef6586`](https://github.com/wgumenyuk/spyter/commit/eef6586544576f311fdb3d763ce1299f4948f672)] - update changelog [skip ci]
+- [[`08b5946`](https://github.com/wgumenyuk/spyter/commit/08b59468c8f1b7f3fd31947cf35c8b8641ced5f4)] - fix invalid repo link in `cliff.toml` [skip ci]
 - [[`2633556`](https://github.com/wgumenyuk/spyter/commit/2633556026a429bfa667c238c130eb1e43f6a225)] - update changelog [skip ci]
 - [[`799ca85`](https://github.com/wgumenyuk/spyter/commit/799ca85ad6ca7d46c06ec81e819ffe8424fc739f)] - add `cliff.toml` [skip ci]
 - [[`920138d`](https://github.com/wgumenyuk/spyter/commit/920138de4806c1b3b9140e4bb9c9c774b3545fd4)] - install `git-cliff` [skip ci]
