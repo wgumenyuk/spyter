@@ -1,3 +1,0 @@
-- [Quick Start](quickstart.md)
-- [GitHub](https://github.com/wgumenyuk/spyter)
-- [NPM](https://npmjs.com/package/spyter)
